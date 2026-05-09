@@ -1,2 +1,1 @@
-# OOP-Project
-A Java-based Object-Oriented Programming semester project for OOP concepts including classes, inheritance, encapsulation, GUI, and file handling also
+Java-based Student & Result Management System with Swing GUI. Demonstrates OOP concepts: inheritance, encapsulation, polymorphism, file handling, and exception handling. Features secure login, CRUD operations for students, automatic grade calculation, and persistent data storage using text files.

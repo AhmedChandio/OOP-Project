@@ -7,7 +7,7 @@ A Java Swing desktop application for managing student records and academic resul
 |    Name 	|   CMS/ID    | Section |
 |---------------|-------------|---------|
 | Ahmed Chandio | 023-25-0201 | B |
-| Malhar Unar   | 023-25-0201 | B |
+| Malhar Unar   | 023-25-0219 | B |
 
 
 ## Purpose

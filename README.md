@@ -9,6 +9,9 @@ A Java Swing desktop application for managing student records and academic resul
 | Ahmed Chandio | 023-25-0201 | B |
 | Malhar Unar   | 023-25-0219 | B |
 
+## Demo Video
+**Watch our project demo on YouTube:**  
+[https://youtu.be/XdV8YwWmmlI?si=QyYGai-GdaFTHfI2](https://youtu.be/XdV8YwWmmlI?si=QyYGai-GdaFTHfI2)
 
 ## Purpose
 This project helps educational institutes manage student data and results digitally. Instead of paper records, administrators can add students, enter marks, and instantly see grades — all stored in files for future use.
